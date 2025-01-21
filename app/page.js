@@ -159,7 +159,7 @@ export default function Home() {
                   display: { xs: 'none', sm: 'block' }
                 }}
               >
-                John
+                Akshay Mathad
               </Typography>
             </Box>
           </Toolbar>
